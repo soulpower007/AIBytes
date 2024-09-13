@@ -1,2 +1,2 @@
-VS Code with Remote Container with Windows Subsystem of Linux
-https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers
+Remote development container using Docker Desktop, powered by the WSL 2 backend
+ - https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers
